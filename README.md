@@ -168,5 +168,5 @@ Sources:
     
     - Evaluating the model on the test data set.
     - Based on the accuracy, success metric predicting >86% for sentiment analysis using the model.
-    - RNN Bi-directional Long Short Term Memory (LSTM) Model can pursue analysis sentiment such as positive, neutral, negative comments.
+    - RNN Bi-directional Long Short Term Memory (LSTM) Model can pursue analysis sentiment such as positive, neutral, negative comments, etc.
 
