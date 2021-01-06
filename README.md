@@ -137,7 +137,8 @@ Sources:
 * Import GloVe.
 
     GloVe - Global vector to represent and classify words contained in statements.
-    [glove.6B.50d (Source URL:https://www.kaggle.com/watts2/glove6b50dtxt)]
+    
+    Source URL:https://www.kaggle.com/watts2/glove6b50dtxt
     
 * Word Preprocessing creating a subset of the data frame.
 * Converting the panda series to NumPy array.
