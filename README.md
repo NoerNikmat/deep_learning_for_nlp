@@ -118,11 +118,14 @@ Sources:
 
 * Import Dataset
     
-    Noted: How to use the Kaggle dataset
-    * Login or sign in for your account on the Kaggle website.
-    * Find your dataset, notebook, and other information that you needed.
-    * Make your API file .json from your profile.
-    * Download your API file .json into your local computers.
+    **Noted** 
+    
+    How to use the Kaggle dataset
+    * Login or sign in for the Kaggle websites account.
+    * Find the dataset, notebook, and other information that is needed.
+    * Make API file .json from the profile account owner.
+    * Download API file .json into local computers.
+
     
 * Import Libraries.
 * Working with Text.
